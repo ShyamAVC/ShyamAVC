@@ -11,9 +11,9 @@ Software Engineer
 - 📫 How to reach me :**shyamvasiharan@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shyamvasiharan" target="blank"></a>
+<a href="https://linkedin.com/in/shyamvasiharan" target="blank"></a><a href="https://www.instagram.com/shaam_m06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ShyamAVC" height="30" width="40" /></a>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vigneswaraa-m-s-2b65a023" height="30" width="40" />
-</p><a href="https://www.instagram.com/shaam_m06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ShyamAVC" height="30" width="40" /></a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShyamAVC&label=Profile%20views&color=0e75b6&style=flat" alt="ShyamAVC" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShyamAVC" alt="ShyamAVC" /></a> </p>
